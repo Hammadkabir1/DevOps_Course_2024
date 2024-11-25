@@ -26,8 +26,7 @@ This blog addresses the challenges of managing logs in a microservices architect
 
 ---
 
-## Objective
-I am a budding full-stack developer and DevOps enthusiast focused on automating workflows, containerization, and deploying scalable applications.
+
 
 ---
 
@@ -40,20 +39,36 @@ I am a budding full-stack developer and DevOps enthusiast focused on automating 
 ---
 
 ## Projects
-### 1. CI/CD Pipeline for a Node.js Application
-- Built a complete CI/CD pipeline using GitHub Actions and Docker.
-- Integrated automated testing and deployment to AWS.
 
-### 2. Kubernetes Deployment for Microservices
-- Deployed a microservices-based application using Kubernetes.
-- Used Minikube for local testing and Helm charts for deployment.
+### 1. Nutrigen – Personalized Dietary Recommendations
+Developed a Flutter-based mobile app that uses TensorFlow to provide personalized dietary recommendations.
+Integrated machine learning models for real-time insights, demonstrating expertise in health-tech applications.
+### 2. SQL Query Generation Model
+Fine-tuned the Lama 3 Instruct 8B model using Lamini to accurately generate SQL queries.
+Achieved high precision in complex data retrieval tasks, showcasing advanced ML and model optimization skills.
+### 3. CSAlgoviz – Interactive Algorithm Learning Tool
+Built an interactive Python-based resource app featuring a chatbot powered by NLP and TensorFlow.
+Enhanced student engagement with targeted questions, creating an adaptive and personalized learning experience.
+### 4. Data Preprocessing and Scraping
+Conducted large-scale data scraping projects for Analyst Lab, producing high-quality datasets for analysis.
+Leveraged automation techniques to streamline the data gathering and preprocessing pipeline.
 
-### 3. Dockerized Flask Application
-- Developed and containerized a Flask app.
-- Automated the build and deployment process using Jenkins.
 
 ---
+## HAMMAD KABIR
+---
+---
+## Machine Learning Engineer 
+Email: hammad.kabir9763@gmial.com
+phone: +92-330-5066658
+City: Lahore/islamabad
+---
+---
+## Objective:
+Passionate and driven machine learning engineer with expertise in AI/ML technologies and a focus on applying cutting-edge solutions to solve real-world problems. Skilled in developing, deploying, and optimizing intelligent systems, with a commitment to innovation and continuous learning.
 
+
+---
 ## Education
 **Bachelor of Science in Computer Science**  
 FAST-NUCES Islamabad  
